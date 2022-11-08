@@ -1,2 +1,2 @@
 # mid-3variant-team-project
-Sans and ka1jo
+sans-wd and ka1jo
